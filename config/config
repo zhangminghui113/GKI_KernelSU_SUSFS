@@ -19,7 +19,7 @@ custom=true
 # 仅当 custom=true 时生效
 gki-android12-5.10=
 gki-android13-5.15=
-gki-android14-6.1= 81edf192ecccbf92ba025808e9f08828b13ddaf5
+gki-android14-6.1=4a1e8311ae24bffb82c97b15945a7d94bf04cf90
 gki-android15-6.6=
 gki-android16-6.12=
 
